@@ -54,9 +54,7 @@ git diff new-branch1   -- it will show the difference between main branch and ne
 
 **********************************************************************************************
 
-
-
-
+git branch -a   -- it will show you how many branches you have in the repository
 
 
 if the repository has more than one branch 
