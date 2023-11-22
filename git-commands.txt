@@ -26,3 +26,22 @@ M - the file is modified and need to add first
 Creating new Project which is not connected to github or not a git repository
 
 git init - it will create an empty git repository
+
+and if any changes in file or modification write a same command like above
+:: git add . , git status , git commit -m "commit message here"
+
+
+but we cannot push this empty repository 
+
+git remote add origin https://github.com/ManojNadar/git-practice-2.git
+git branch -- it will show you the branch name ex. main,master
+
+git branch -M main   - it will change the branch name master to main
+and now we can push the file into repository 
+
+
+******************************************************************************************
+
+git branch -a   -- it will show you how many branches you have in the repository
+
+
