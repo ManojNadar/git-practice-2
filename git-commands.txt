@@ -55,6 +55,11 @@ git diff new-branch1   -- it will show the difference between main branch and ne
 git merge new-branch1  -- main branch  will merge with new-branch1
 
 
+create new branch using command
+
+git branch new-branch2
+
+
 **********************************************************************************************
 
 
