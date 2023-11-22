@@ -44,4 +44,10 @@ and now we can push the file into repository
 
 git branch -a   -- it will show you how many branches you have in the repository
 
+git checkout new-branch1 -- it will switch to new-branch 
+
+git diff new-branch1   -- it will show the difference between main branch and new-branch1
+
+
+**************************************************************************************
 
