@@ -48,8 +48,7 @@ git branch -a   -- it will show you how many branches you have in the repository
 if the repository has more than one branch 
 git pull ---- so that you can access the the branch
 
-if you want to change the branch 
-git checkout newbranch  
+
 
 
 
