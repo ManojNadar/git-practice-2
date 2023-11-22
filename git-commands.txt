@@ -52,6 +52,21 @@ git checkout new-branch1 -- it will switch to new-branch
 
 git diff new-branch1   -- it will show the difference between main branch and new-branch1
 
+**********************************************************************************************
+
+
+
+
+
+
+if the repository has more than one branch 
+git pull ---- so that you can access the the branch
+
+
+git checkout new-branch1 -- it will switch to new-branch 
+
+git diff new-branch1   -- it will show the difference between main branch and new-branch1
+
 
 **************************************************************************************
 
