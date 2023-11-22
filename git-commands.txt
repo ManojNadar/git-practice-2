@@ -54,17 +54,5 @@ git diff new-branch1   -- it will show the difference between main branch and ne
 
 **********************************************************************************************
 
-git branch -a   -- it will show you how many branches you have in the repository
 
-
-if the repository has more than one branch 
-git pull ---- so that you can access the the branch
-
-
-git checkout new-branch1 -- it will switch to new-branch 
-
-git diff new-branch1   -- it will show the difference between main branch and new-branch1
-
-
-**************************************************************************************
 
