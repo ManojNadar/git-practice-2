@@ -52,6 +52,9 @@ git checkout new-branch1 -- it will switch to new-branch
 
 git diff new-branch1   -- it will show the difference between main branch and new-branch1
 
+git merge new-branch1  -- main branch  will merge with new-branch1
+
+
 **********************************************************************************************
 
 
