@@ -1,0 +1,28 @@
+git clone - clone the repositories from git hub 
+example command - git clone https://github.com/ManojNadar/git-practice-2.git
+
+
+** If any files added, modified or deleted **
+
+git add file_name   - add particular file name to untracked to staging area
+(or)
+git add .           - add all the file name to staging area
+
+
+git status  - to check the file status
+
+git commit -m "commit message here"  - it will commit all the codes to git "bridge"
+
+git push origin main  - it will push all the code to github repositories
+
+if file is
+U - the file is modified and untracked area but not added
+A - the file is added and in staging area ready to commit
+M - the file is modified and need to add first  
+
+
+*************************************************************************************************************************************
+
+Creating new Project which is not connected to github or not a git repository
+
+git init - it will create an empty git repository
